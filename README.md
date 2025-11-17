@@ -1,5 +1,5 @@
 # Text-Based Auto-Battler
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/4E3n94io6AI
 #### Description: A Python text-based game where two characters fight automatically using elemental powers. Each fighter gets random stats and abilities, then battles it out with colorful attacks until one wins.
 
 
